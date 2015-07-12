@@ -1,6 +1,6 @@
 # Browser JavaScript Resource
 
-Latest JavaScript infomation per browser.
+Latest JavaScript information by browser.
 
 ## Internet Explorer
 
