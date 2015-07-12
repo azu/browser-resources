@@ -2,9 +2,9 @@
 
 Latest JavaScript information by browser.
 
-## Internet Explorer
+## ![](./browser-logos/internet-explorer/internet-explorer_32x32.png) Internet Explorer
 
-## Microsoft Edge ![](https://raw.githubusercontent.com/alrra/browser-logos/master/edge/edge_16x16.png)
+## ![](./browser-logos/edge/edge_32x32.png) Microsoft Edge
 
 - [Developer Resources : MSEdge Dev](http://dev.modern.ie/ "Developer Resources : MSEdge Dev")
 
@@ -12,13 +12,13 @@ Latest JavaScript information by browser.
 
 - [Internet Explorer Beta Feedback | Microsoft Connect](https://connect.microsoft.com/IE "Internet Explorer Beta Feedback | Microsoft Connect")
 
-## Firefox
+## ![](./browser-logos/firefox/firefox_32x32.png) Firefox
 
-## Google Chrome
+## ![](./browser-logos/chrome/chrome_32x32.png) Google Chrome
 
-## Opera
+## ![](./browser-logos/opera/opera_32x32.png) Opera
 
-## Safari
+## ![](./browser-logos/safari/safari_32x32.png) Safari
 
 
 -----

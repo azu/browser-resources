@@ -1,0 +1,3 @@
+[submodule "browser-logos"]
+	path = browser-logos
+	url = https://github.com/alrra/browser-logos.git
