@@ -2,11 +2,10 @@
 
 Latest JavaScript information by browser.
 
-![](./browser-logos/internet-explorer/internet-explorer_32x32.png) logo
 
-## ![](./browser-logos/internet-explorer/internet-explorer_32x32.png) Internet Explorer
+## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//internet-explorer/internet-explorer_32x32.png) Internet Explorer
 
-## ![](./browser-logos/edge/edge_32x32.png) Microsoft Edge
+## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//edge/edge_32x32.png) Microsoft Edge
 
 - [Developer Resources : MSEdge Dev](http://dev.modern.ie/ "Developer Resources : MSEdge Dev")
 
@@ -14,13 +13,13 @@ Latest JavaScript information by browser.
 
 - [Internet Explorer Beta Feedback | Microsoft Connect](https://connect.microsoft.com/IE "Internet Explorer Beta Feedback | Microsoft Connect")
 
-## ![](./browser-logos/firefox/firefox_32x32.png) Firefox
+## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//firefox/firefox_32x32.png) Firefox
 
-## ![](./browser-logos/chrome/chrome_32x32.png) Google Chrome
+## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//chrome/chrome_32x32.png) Google Chrome
 
-## ![](./browser-logos/opera/opera_32x32.png) Opera
+## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//opera/opera_32x32.png) Opera
 
-## ![](./browser-logos/safari/safari_32x32.png) Safari
+## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//safari/safari_32x32.png) Safari
 
 
 -----
