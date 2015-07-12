@@ -38,7 +38,6 @@ Latest JavaScript information by browser.
 ### Bug Report
 
 - [Bug report wizard - Opera Software](https://bugs.opera.com/wizard/)
-- [Bug report wizard - Opera Software](https://bugs.opera.com/wizarddesktop/)
 
 ## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//safari/safari_32x32.png) Safari
 
