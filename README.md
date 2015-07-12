@@ -2,6 +2,8 @@
 
 Latest JavaScript information by browser.
 
+![](./browser-logos/internet-explorer/internet-explorer_32x32.png) logo
+
 ## ![](./browser-logos/internet-explorer/internet-explorer_32x32.png) Internet Explorer
 
 ## ![](./browser-logos/edge/edge_32x32.png) Microsoft Edge
