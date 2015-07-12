@@ -4,7 +4,13 @@ Latest JavaScript information by browser.
 
 ## Internet Explorer
 
-## Microsoft Edge
+## Microsoft Edge ![](https://raw.githubusercontent.com/alrra/browser-logos/master/edge/edge_16x16.png)
+
+- [Developer Resources : MSEdge Dev](http://dev.modern.ie/ "Developer Resources : MSEdge Dev")
+
+### Bug Report
+
+- [Internet Explorer Beta Feedback | Microsoft Connect](https://connect.microsoft.com/IE "Internet Explorer Beta Feedback | Microsoft Connect")
 
 ## Firefox
 
