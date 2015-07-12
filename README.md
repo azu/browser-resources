@@ -21,6 +21,23 @@ Latest JavaScript information by browser.
 
 ## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//firefox/firefox_32x32.png) Firefox
 
+### Release Note
+
+- [Mozilla Firefox Release Notes — Mozilla](https://www.mozilla.org/en-US/firefox/releases/)
+- [Firefox developer release notes - Mozilla | MDN](https://developer.mozilla.org/Firefox/Releases)
+
+### Blog
+
+- [Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/ "Mozilla Hacks – the Web developer blog")
+
+### Feature
+
+- [New in JavaScript - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript "New in JavaScript - JavaScript | MDN")
+  - [Firefox JavaScript changelog - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/Firefox_JavaScript_changelog "Firefox JavaScript changelog - JavaScript | MDN")
+  - [ECMAScript 6 support in Mozilla - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla)
+  - [ECMAScript 7 support in Mozilla - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_7_support_in_Mozilla)
+
+
 ### Bug Report
 
 - [Bug writing guidelines - Mozilla | MDN](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines)
