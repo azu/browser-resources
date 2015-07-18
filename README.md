@@ -4,9 +4,9 @@ Latest JavaScript information by browser.
 
 **Tags**
 
-- **Changelog**: Release Note and Changelog.
-- **Status**: The staus of browser's features.
-- **Feature**: New Feature or Blogs
+- **Changelog**: Changelog and Release Note.
+- **Status**: Status and Roadmap.
+- **Update**: Feature Description and Blog.
 - **Bug Report**: Bug reporting guideline.
 
 <!-- IE -->
