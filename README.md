@@ -2,6 +2,8 @@
 
 Latest JavaScript information by browser.
 
+This is the collection of official release note, changelog, blog.
+
 **Tags**
 
 - **Changelog**: Changelog and Release Note.
