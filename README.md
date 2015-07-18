@@ -109,6 +109,10 @@ Latest JavaScript information by browser.
 
 ## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//safari/safari_32x32.png) Safari
 
+### Changelog
+
+- [Introduction to “What’s New in Safari”](https://developer.apple.com/library/prerelease/mac/releasenotes/General/WhatsNewInSafari/Introduction/Introduction.html "Introduction to “What’s New in Safari”")
+
 ### Status
 
 - [WebKit Web Platform Status](http://www.webkit.org/status.html "WebKit Web Platform Status")
