@@ -2,7 +2,7 @@
 
 Latest JavaScript information by browser.
 
-This is the collection of official release note, changelog, blog.
+This is the collection of official release note, changelog and blogs.
 
 **Tags**
 
