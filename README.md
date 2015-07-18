@@ -74,6 +74,10 @@ Latest JavaScript information by browser.
 ## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//chrome/chrome_32x32.png) Google Chrome
 > https://www.google.com/chrome
 
+### Changelog
+
+- [Chrome Releases](http://googlechromereleases.blogspot.jp/)
+
 ### Status
 
 - [Chromium Dashboard](https://www.chromestatus.com/features "Chromium Dashboard")
@@ -82,7 +86,6 @@ Latest JavaScript information by browser.
 
 - [Google Chrome Blog](http://chrome.blogspot.jp/)
 - [Chromium Blog](http://blog.chromium.org/)
-- [Chrome Releases](http://googlechromereleases.blogspot.jp/)
 - [V8 JavaScript Engine](http://v8project.blogspot.jp/ "V8 JavaScript Engine")
 - [Google Developers — Medium](https://medium.com/google-developers "Google Developers — Medium")
 - [Web Updates — Web Updates](https://developers.google.com/web/updates/ "Web Updates — Web Updates")
