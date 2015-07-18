@@ -13,6 +13,7 @@ Latest JavaScript information by browser.
 <!-- IE -->
 
 ## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//internet-explorer/internet-explorer_32x32.png) Internet Explorer
+> http://microsoft.com/ie
 
 ### Status
 
@@ -26,8 +27,7 @@ Latest JavaScript information by browser.
 <!-- MSEdge -->
 
 ## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//edge/edge_32x32.png) Microsoft Edge
-
-- [Developer Resources : MSEdge Dev](http://dev.modern.ie/ "Developer Resources : MSEdge Dev")
+> http://dev.modern.ie/
 
 ### Changelog
 
@@ -49,6 +49,7 @@ Latest JavaScript information by browser.
 <!-- Firefox -->
 
 ## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//firefox/firefox_32x32.png) Firefox
+> https://mozilla.org/firefox
 
 ### Changelog
 
@@ -71,6 +72,7 @@ Latest JavaScript information by browser.
 <!-- Google Chrome -->
 
 ## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//chrome/chrome_32x32.png) Google Chrome
+> https://www.google.com/chrome
 
 ### Status
 
@@ -93,6 +95,7 @@ Latest JavaScript information by browser.
 <!-- Opera -->
 
 ## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//opera/opera_32x32.png) Opera
+> http://www.opera.com/
 
 ### Changelog
 
@@ -109,6 +112,7 @@ Latest JavaScript information by browser.
 <!-- Safari -->
 
 ## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//safari/safari_32x32.png) Safari
+> https://www.apple.com/safari
 
 ### Changelog
 
