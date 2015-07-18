@@ -28,7 +28,7 @@ Latest JavaScript information by browser.
 
 - [Developer Resources : MSEdge Dev](http://dev.modern.ie/ "Developer Resources : MSEdge Dev")
 
-### Release Note
+### Changelog
 
 - [Microsoft Edge changelog](http://dev.modern.ie/platform/changelog/ "Microsoft Edge changelog")
 
@@ -45,19 +45,16 @@ Latest JavaScript information by browser.
 
 ## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//firefox/firefox_32x32.png) Firefox
 
-### Release Note
+### Changelog
 
 - [Mozilla Firefox Release Notes — Mozilla](https://www.mozilla.org/en-US/firefox/releases/)
 - [Firefox developer release notes - Mozilla | MDN](https://developer.mozilla.org/Firefox/Releases)
+- [Firefox JavaScript changelog - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/Firefox_JavaScript_changelog)
 
-### Blog
+### Update
 
 - [Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/ "Mozilla Hacks – the Web developer blog")
-
-### Feature
-
-- [New in JavaScript - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript "New in JavaScript - JavaScript | MDN")
-  - [Firefox JavaScript changelog - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/Firefox_JavaScript_changelog "Firefox JavaScript changelog - JavaScript | MDN")
+- [New in JavaScript - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript)
   - [ECMAScript 6 support in Mozilla - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla)
   - [ECMAScript 7 support in Mozilla - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_7_support_in_Mozilla)
 
@@ -70,7 +67,7 @@ Latest JavaScript information by browser.
 
 ## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//chrome/chrome_32x32.png) Google Chrome
 
-### Release Note
+### Status
 
 - [Chromium Dashboard](https://www.chromestatus.com/features "Chromium Dashboard")
 
@@ -91,7 +88,7 @@ Latest JavaScript information by browser.
 
 ## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//safari/safari_32x32.png) Safari
 
-### Release Note
+### Status
 
 - [WebKit Web Platform Status](http://www.webkit.org/status.html "WebKit Web Platform Status")
 
