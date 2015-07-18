@@ -2,6 +2,13 @@
 
 Latest JavaScript information by browser.
 
+**Tags**
+
+- **Changelog**: Release Note and Changelog.
+- **Status**: The staus of browser's features.
+- **Feature**: New Feature or Blogs
+- **Bug Report**: Bug reporting guideline.
+
 <!-- IE -->
 
 ## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//internet-explorer/internet-explorer_32x32.png) Internet Explorer
