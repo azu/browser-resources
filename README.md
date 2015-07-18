@@ -83,6 +83,7 @@ Latest JavaScript information by browser.
 - [Chrome Releases](http://googlechromereleases.blogspot.jp/)
 - [V8 JavaScript Engine](http://v8project.blogspot.jp/ "V8 JavaScript Engine")
 - [Google Developers — Medium](https://medium.com/google-developers "Google Developers — Medium")
+- [Web Updates — Web Updates](https://developers.google.com/web/updates/ "Web Updates — Web Updates")
 
 ### Bug Report
 
