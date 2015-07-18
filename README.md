@@ -8,6 +8,7 @@ Latest JavaScript information by browser.
 - **Status**: Status and Roadmap.
 - **Update**: Feature Description and Blog.
 - **Bug Report**: Bug reporting guideline.
+- **SNS**: Official account of SNS and GitHub.
 
 <!-- IE -->
 
@@ -36,6 +37,10 @@ Latest JavaScript information by browser.
 
 - [Platform status](http://dev.modern.ie/platform/status/ "Platform status")
 
+### Update
+
+- [Microsoft Edge Dev Blog](http://blogs.windows.com/msedgedev/ "Microsoft Edge Dev Blog")
+
 ### Bug Report
 
 - [Announcing Internet Explorer Feedback - IEBlog - Site Home - MSDN Blogs](http://blogs.msdn.com/b/ie/archive/2006/03/24/announcing-internet-explorer-feedback.aspx)
@@ -55,8 +60,8 @@ Latest JavaScript information by browser.
 
 - [Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/ "Mozilla Hacks – the Web developer blog")
 - [New in JavaScript - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript)
-  - [ECMAScript 6 support in Mozilla - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla)
-  - [ECMAScript 7 support in Mozilla - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_7_support_in_Mozilla)
+	- [ECMAScript 6 support in Mozilla - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla)
+	- [ECMAScript 7 support in Mozilla - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_7_support_in_Mozilla)
 
 ### Bug Report
 
@@ -71,6 +76,14 @@ Latest JavaScript information by browser.
 
 - [Chromium Dashboard](https://www.chromestatus.com/features "Chromium Dashboard")
 
+### Update
+
+- [Google Chrome Blog](http://chrome.blogspot.jp/)
+- [Chromium Blog](http://blog.chromium.org/)
+- [Chrome Releases](http://googlechromereleases.blogspot.jp/)
+- [V8 JavaScript Engine](http://v8project.blogspot.jp/ "V8 JavaScript Engine")
+- [Google Developers — Medium](https://medium.com/google-developers "Google Developers — Medium")
+
 ### Bug Report
 
 - [Bug Life Cycle and Reporting Guidelines - The Chromium Projects](http://www.chromium.org/for-testers/bug-reporting-guidelines)
@@ -79,6 +92,14 @@ Latest JavaScript information by browser.
 <!-- Opera -->
 
 ## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//opera/opera_32x32.png) Opera
+
+### Changelog
+
+- [Opera Desktop Team's blog](http://blogs.opera.com/desktop/)
+
+### Update
+
+- [Dev.Opera — Blog](https://dev.opera.com/blog/ "Dev.Opera — Blog")
 
 ### Bug Report
 
@@ -91,6 +112,10 @@ Latest JavaScript information by browser.
 ### Status
 
 - [WebKit Web Platform Status](http://www.webkit.org/status.html "WebKit Web Platform Status")
+
+### Update
+
+- [Surfin' Safari - The WebKit Blog](https://www.webkit.org/blog/)
 
 ### Bug Report
 
