@@ -50,7 +50,7 @@ This is the collection of official release note, changelog and blogs.
 
 <!-- Firefox -->
 
-## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//firefox/firefox_32x32.png)Firefox
+## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//firefox/firefox_32x32.png)Mozilla Firefox
 > https://mozilla.org/firefox
 
 ### Changelog
