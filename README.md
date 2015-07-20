@@ -140,7 +140,7 @@ This is the collection of official release note, changelog and blogs.
 
 ## :globe_with_meridians: Other
 
-Not office, but useful.
+Not official, but useful.
 
 ### Status
 
