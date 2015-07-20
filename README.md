@@ -14,7 +14,7 @@ This is the collection of official release note, changelog and blogs.
 
 <!-- IE -->
 
-## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//internet-explorer/internet-explorer_32x32.png) Internet Explorer
+## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//internet-explorer/internet-explorer_32x32.png)Internet Explorer
 > http://microsoft.com/ie
 
 ### Status
@@ -28,7 +28,7 @@ This is the collection of official release note, changelog and blogs.
 
 <!-- MSEdge -->
 
-## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//edge/edge_32x32.png) Microsoft Edge
+## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//edge/edge_32x32.png)Microsoft Edge
 > http://dev.modern.ie/
 
 ### Changelog
@@ -50,7 +50,7 @@ This is the collection of official release note, changelog and blogs.
 
 <!-- Firefox -->
 
-## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//firefox/firefox_32x32.png) Firefox
+## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//firefox/firefox_32x32.png)Firefox
 > https://mozilla.org/firefox
 
 ### Changelog
@@ -73,7 +73,7 @@ This is the collection of official release note, changelog and blogs.
 
 <!-- Google Chrome -->
 
-## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//chrome/chrome_32x32.png) Google Chrome
+## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//chrome/chrome_32x32.png)Google Chrome
 > https://www.google.com/chrome
 
 ### Changelog
@@ -99,7 +99,7 @@ This is the collection of official release note, changelog and blogs.
 
 <!-- Opera -->
 
-## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//opera/opera_32x32.png) Opera
+## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//opera/opera_32x32.png)Opera
 > http://www.opera.com/
 
 ### Changelog
@@ -116,7 +116,7 @@ This is the collection of official release note, changelog and blogs.
 
 <!-- Safari -->
 
-## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//safari/safari_32x32.png) Safari
+## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//safari/safari_32x32.png)Safari
 > https://www.apple.com/safari
 
 ### Changelog
