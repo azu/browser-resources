@@ -137,6 +137,17 @@ This is the collection of official release note, changelog and blogs.
 - [The WebKit Open Source Project - Bug Reporting Guidelines](http://www.webkit.org/quality/bugwriting.html)
 - [bugs.webkit.org](https://bugs.webkit.org/)
 
+
+## :globe_with_meridians: Other
+
+Not office, but useful.
+
+### Status
+
+- [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/ "Can I use... Support tables for HTML5, CSS3, etc")
+- [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/ "ECMAScript 6 compatibility table")
+- [Browser Platform Status Tracker](http://platformstatustracker.azurewebsites.net/ "Browser Platform Status Tracker")
+
 -----
 
 ## Contributing
