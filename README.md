@@ -144,9 +144,13 @@ Not official, but useful.
 
 ### Status
 
-- [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/ "Can I use... Support tables for HTML5, CSS3, etc")
-- [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/ "ECMAScript 6 compatibility table")
-- [Browser Platform Status Tracker](http://platformstatustracker.azurewebsites.net/ "Browser Platform Status Tracker")
+- [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/)
+- [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
+- [Browser Platform Status Tracker](http://platformstatustracker.azurewebsites.net/)
+
+### Bug Report
+
+- [webcompat.com](https://webcompat.com/)
 
 -----
 
