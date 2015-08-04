@@ -133,6 +133,13 @@ This is the collection of official release note, changelog and blogs.
 
 ### Bug Report
 
+Safari
+
+- [Apple - Safari - Feedback](https://www.apple.com/feedback/safari.html)
+- [Bug Reporting - Apple Developer](https://developer.apple.com/bug-reporting/ "Bug Reporting - Apple Developer")
+
+WebKit
+
 - [The WebKit Open Source Project - Reporting Bugs](http://www.webkit.org/quality/reporting.html)
 - [The WebKit Open Source Project - Bug Reporting Guidelines](http://www.webkit.org/quality/bugwriting.html)
 - [bugs.webkit.org](https://bugs.webkit.org/)
