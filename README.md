@@ -61,7 +61,8 @@ This is the collection of official release note, changelog and blogs.
 
 ### Update
 
-- [Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/ "Mozilla Hacks – the Web developer blog")
+- [Firefox Site Compatibility](https://www.fxsitecompat.com/)
+- [Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/)
 - [New in JavaScript - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript)
 	- [ECMAScript 6 support in Mozilla - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla)
 	- [ECMAScript 7 support in Mozilla - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_7_support_in_Mozilla)
