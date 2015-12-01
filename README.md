@@ -130,7 +130,7 @@ This is the collection of official release note, changelog and blogs.
 
 ### Update
 
-- [Surfin' Safari - The WebKit Blog](https://www.webkit.org/blog/)
+[Blog | WebKit](https://webkit.org/blog/ "Blog | WebKit")
 
 ### Bug Report
 
