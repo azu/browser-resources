@@ -130,7 +130,7 @@ This is the collection of official release note, changelog and blogs.
 
 ### Update
 
-[Blog | WebKit](https://webkit.org/blog/ "Blog | WebKit")
+- [Blog | WebKit](https://webkit.org/blog/ "Blog | WebKit")
 
 ### Bug Report
 
