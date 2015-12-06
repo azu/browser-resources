@@ -59,6 +59,10 @@ This is the collection of official release note, changelog and blogs.
 - [Firefox developer release notes - Mozilla | MDN](https://developer.mozilla.org/Firefox/Releases)
 - [Firefox JavaScript changelog - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/Firefox_JavaScript_changelog)
 
+### Status
+
+- [Firefox Platform Status](https://platatus.herokuapp.com/ "Firefox Platform Status")
+
 ### Update
 
 - [Firefox Site Compatibility](https://www.fxsitecompat.com/)
