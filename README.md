@@ -24,7 +24,8 @@ This is the collection of official release note, changelog and blogs.
 ### Bug Report
 
 - [Announcing Internet Explorer Feedback - IEBlog - Site Home - MSDN Blogs](http://blogs.msdn.com/b/ie/archive/2006/03/24/announcing-internet-explorer-feedback.aspx)
-- [Internet Explorer Beta Feedback | Microsoft Connect](https://connect.microsoft.com/IE "Internet Explorer Beta Feedback | Microsoft Connect")
+- [EdgeHTML issue tracker](https://developer.microsoft.com/microsoft-edge/platform/issues/)
+     - Old: [connect.microsoft.com/IE](https://connect.microsoft.com/IE)
 
 <!-- MSEdge -->
 
@@ -45,8 +46,7 @@ This is the collection of official release note, changelog and blogs.
 
 ### Bug Report
 
-- [Announcing Internet Explorer Feedback - IEBlog - Site Home - MSDN Blogs](http://blogs.msdn.com/b/ie/archive/2006/03/24/announcing-internet-explorer-feedback.aspx)
-- [Internet Explorer Beta Feedback | Microsoft Connect](https://connect.microsoft.com/IE "Internet Explorer Beta Feedback | Microsoft Connect")
+- [EdgeHTML issue tracker](https://developer.microsoft.com/microsoft-edge/platform/issues/)
 
 <!-- Firefox -->
 
