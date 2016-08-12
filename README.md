@@ -47,6 +47,7 @@ This is the collection of official release note, changelog and blogs.
 ### Bug Report
 
 - [EdgeHTML issue tracker](https://developer.microsoft.com/microsoft-edge/platform/issues/)
+- [Introducing #EdgeBug: File web platform bugs with a Tweet | Microsoft Edge Dev Blog](https://blogs.windows.com/msedgedev/2016/08/11/edgebug-twitter/)
 
 <!-- Firefox -->
 
