@@ -164,6 +164,8 @@ Not official, but useful.
 ### Bug Report
 
 - [webcompat.com](https://webcompat.com/)
+- [Browser Bug Searcher](https://browser-issue-tracker-search.appspot.com/)
+	- search for bugs across all the major browser vendors
 
 -----
 
