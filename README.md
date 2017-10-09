@@ -157,9 +157,10 @@ Not official, but useful.
 
 ### Status
 
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data)
 - [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/)
 - [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
-- [Browser Platform Status Tracker](http://platformstatustracker.azurewebsites.net/)
+- [Browser Platform Status Tracker](https://platformstatus.io/)
 
 ### Bug Report
 
