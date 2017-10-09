@@ -30,7 +30,7 @@ This is the collection of official release note, changelog and blogs.
 <!-- MSEdge -->
 
 ## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//edge/edge_32x32.png)Microsoft Edge
-> http://dev.modern.ie/
+> https://developer.microsoft.com/microsoft-edge/
 
 ### Changelog
 
