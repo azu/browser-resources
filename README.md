@@ -145,7 +145,7 @@ Not official, but useful.
 
 ## Contributing
 
-1. [Edit README.md](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fazu%2Fbrowser-javascript-resource%2Fedit%2Fmaster%2FREADME.md)
+1. [Edit README.md](https://github.com/azu/browser-javascript-resource/edit/master/README.md)
 2. Commit your changes: "Create a new branch for this commit and start a pull request."
 3. Submit a pull request :D
 
