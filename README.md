@@ -48,6 +48,7 @@ This is the collection of official release note, changelog and blogs.
 
 - [Mozilla Firefox Release Notes — Mozilla](https://www.mozilla.org/en-US/firefox/releases/)
 - [Firefox developer release notes - Mozilla | MDN](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases)
+- [Firefox Site Compatibility](https://www.fxsitecompat.dev/en-CA/)
 
 ### Status
 
@@ -55,11 +56,7 @@ This is the collection of official release note, changelog and blogs.
 
 ### Update
 
-- [Firefox Site Compatibility](https://www.fxsitecompat.dev/en-CA/)
 - [Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/)
-- [New in JavaScript - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/New_in_JavaScript)
-	- [ECMAScript 6 support in Mozilla - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/New_in_JavaScript/ECMAScript_2015_support_in_Mozilla)
-	- [ECMAScript 7 support in Mozilla - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/ECMAScript_Next_support_in_Mozilla)
 
 ### Bug Report
 
