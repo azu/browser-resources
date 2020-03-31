@@ -14,12 +14,12 @@ This is the collection of official release note, changelog and blogs.
 
 <!-- IE -->
 
-## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//internet-explorer/internet-explorer_32x32.png)Internet Explorer
+## ![](https://raw.githubusercontent.com/alrra/browser-logos/master/src/archive/internet-explorer_9-11/internet-explorer_9-11_32x32.png) Internet Explorer
 > http://microsoft.com/ie
 
 <!-- MSEdge -->
 
-## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//edge/edge_32x32.png)Microsoft Edge
+## ![](https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_32x32.png) Microsoft Edge
 > https://developer.microsoft.com/microsoft-edge/
 
 ### Changelog
@@ -41,7 +41,7 @@ This is the collection of official release note, changelog and blogs.
 
 <!-- Firefox -->
 
-## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//firefox/firefox_32x32.png)Mozilla Firefox
+## ![](https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_32x32.png) Mozilla Firefox
 > https://mozilla.org/firefox
 
 ### Changelog
@@ -65,7 +65,7 @@ This is the collection of official release note, changelog and blogs.
 
 <!-- Google Chrome -->
 
-## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//chrome/chrome_32x32.png)Google Chrome
+## ![](https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_32x32.png) Google Chrome
 > https://www.google.com/chrome
 
 ### Changelog
@@ -93,7 +93,7 @@ This is the collection of official release note, changelog and blogs.
 
 <!-- Safari -->
 
-## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//safari/safari_32x32.png)Safari
+## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//safari/safari_32x32.png) Safari
 > https://www.apple.com/safari
 
 ### Changelog
