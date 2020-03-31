@@ -14,12 +14,12 @@ This is the collection of official release note, changelog and blogs.
 
 <!-- IE -->
 
-## ![](https://raw.githubusercontent.com/alrra/browser-logos/master/src/archive/internet-explorer_9-11/internet-explorer_9-11_32x32.png) Internet Explorer
+## ![](https://raw.githubusercontent.com/alrra/browser-logos/62.2.25/src/archive/internet-explorer_9-11/internet-explorer_9-11_32x32.png) Internet Explorer
 > http://microsoft.com/ie
 
 <!-- MSEdge -->
 
-## ![](https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_32x32.png) Microsoft Edge
+## ![](https://raw.githubusercontent.com/alrra/browser-logos/62.2.25/src/edge/edge_32x32.png) Microsoft Edge
 > https://developer.microsoft.com/microsoft-edge/
 
 ### Changelog
@@ -41,7 +41,7 @@ This is the collection of official release note, changelog and blogs.
 
 <!-- Firefox -->
 
-## ![](https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_32x32.png) Mozilla Firefox
+## ![](https://raw.githubusercontent.com/alrra/browser-logos/62.2.25/src/firefox/firefox_32x32.png) Mozilla Firefox
 > https://mozilla.org/firefox
 
 ### Changelog
@@ -65,7 +65,7 @@ This is the collection of official release note, changelog and blogs.
 
 <!-- Google Chrome -->
 
-## ![](https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_32x32.png) Google Chrome
+## ![](https://raw.githubusercontent.com/alrra/browser-logos/62.2.25/src/chrome/chrome_32x32.png) Google Chrome
 > https://www.google.com/chrome
 
 ### Changelog
@@ -145,7 +145,7 @@ Not official, but useful.
 
 <!-- textlint-disable -->
 
-1. [Edit README.md](https://github.com/azu/browser-javascript-resource/edit/master/README.md)
+1. [Edit README.md](https://github.com/azu/browser-javascript-resource/edit/62.2.25/README.md)
 2. Commit your changes: "Create a new branch for this commit and start a pull request."
 3. Submit a pull request :D
 
