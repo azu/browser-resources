@@ -17,12 +17,6 @@ This is the collection of official release note, changelog and blogs.
 ## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//internet-explorer/internet-explorer_32x32.png)Internet Explorer
 > http://microsoft.com/ie
 
-
-### Bug Report
-
-- [Announcing Internet Explorer Feedback - IEBlog - Site Home - MSDN Blogs](https://docs.microsoft.com/en-us/archive/blogs/)
-- [EdgeHTML issue tracker](https://developer.microsoft.com/en-us/microsoft-edge/)
-
 <!-- MSEdge -->
 
 ## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//edge/edge_32x32.png)Microsoft Edge
@@ -99,22 +93,6 @@ This is the collection of official release note, changelog and blogs.
 - [Bug Life Cycle and Reporting Guidelines - The Chromium Projects](http://www.chromium.org/for-testers/bug-reporting-guidelines)
 - [Issues - chromium - An open-source project to help move the web forward. - Google Project Hosting](https://bugs.chromium.org/p/chromium/issues/list)
 
-<!-- Opera -->
-
-## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//opera/opera_32x32.png)Opera
-> http://www.opera.com/
-
-### Changelog
-
-- [Opera Desktop Team's blog](https://blogs.opera.com/desktop/)
-
-### Update
-
-- [Dev.Opera — Blog](https://dev.opera.com/blog/ "Dev.Opera — Blog")
-
-### Bug Report
-
-- [Bug report wizard - Opera Software](https://bugs.opera.com/wizard/)
 
 <!-- Safari -->
 
@@ -145,7 +123,6 @@ WebKit
 - [The WebKit Open Source Project - Reporting Bugs](https://webkit.org/reporting-bugs/)
 - [The WebKit Open Source Project - Bug Reporting Guidelines](https://webkit.org/bug-report-guidelines/)
 - [bugs.webkit.org](https://bugs.webkit.org/)
-
 
 ## :globe_with_meridians: Other
 
