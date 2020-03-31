@@ -28,7 +28,7 @@ This is the collection of official release note, changelog and blogs.
 
 ### Status
 
-- [Platform Status - Microsoft Edge Developer](https://developer.microsoft.com/en-us/microsoft-edge/status/)a
+- [Platform Status - Microsoft Edge Developer](https://developer.microsoft.com/en-us/microsoft-edge/status/)
 
 ### Update
 
@@ -129,8 +129,9 @@ Not official, but useful.
 
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data)
 - [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
-- [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
+- [ECMAScript 6 compatibility table](https://kangax.github.io/compat-table/es6/)
 - [Browser Platform Status Tracker](https://platformstatus.io/)
+- [Node.js ES2015/ES6, ES2016 and ES2017 support](https://node.green/)
 
 ### Bug Report
 
