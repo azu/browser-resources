@@ -4,7 +4,7 @@
     "no-dead-link": {
       "ignore": [
         "https://github.com/*/edit/*",
-        "https://github.com/login*"
+        "https://github.com/login?*"
       ]
     }
   }
