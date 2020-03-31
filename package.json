@@ -1,0 +1,27 @@
+{
+  "name": "browser-javascript-resource",
+  "version": "1.0.0",
+  "description": "Latest JavaScript information by browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run textlint",
+    "textlint": "textlint README.md",
+    "textlint:fix": "textlint --fix README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/azu/browser-javascript-resource.git"
+  },
+  "keywords": [],
+  "author": "azu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azu/browser-javascript-resource/issues"
+  },
+  "homepage": "https://github.com/azu/browser-javascript-resource#readme",
+  "devDependencies": {
+    "textlint": "^11.6.3",
+    "textlint-filter-rule-comments": "^1.2.2",
+    "textlint-rule-no-dead-link": "^4.6.2"
+  }
+}
