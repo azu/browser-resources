@@ -17,15 +17,11 @@ This is the collection of official release note, changelog and blogs.
 ## ![](https://cdn.rawgit.com/alrra/browser-logos/11.0.0//internet-explorer/internet-explorer_32x32.png)Internet Explorer
 > http://microsoft.com/ie
 
-### Status
-
-- [status.modern.IE](https://status.modern.ie/)
 
 ### Bug Report
 
-- [Announcing Internet Explorer Feedback - IEBlog - Site Home - MSDN Blogs](http://blogs.msdn.com/b/ie/archive/2006/03/24/announcing-internet-explorer-feedback.aspx)
-- [EdgeHTML issue tracker](https://developer.microsoft.com/microsoft-edge/platform/issues/)
-     - Old: [connect.microsoft.com/IE](https://connect.microsoft.com/IE)
+- [Announcing Internet Explorer Feedback - IEBlog - Site Home - MSDN Blogs](https://docs.microsoft.com/en-us/archive/blogs/)
+- [EdgeHTML issue tracker](https://developer.microsoft.com/en-us/microsoft-edge/)
 
 <!-- MSEdge -->
 
@@ -34,19 +30,19 @@ This is the collection of official release note, changelog and blogs.
 
 ### Changelog
 
-- [Microsoft Edge changelog](http://dev.modern.ie/platform/changelog/ "Microsoft Edge changelog")
+- [Microsoft Edge release notes - Microsoft Edge Developer](https://developer.microsoft.com/en-us/microsoft-edge/platform/changelog/)
 
 ### Status
 
-- [Platform status](http://dev.modern.ie/platform/status/ "Platform status")
+- [Platform Status - Microsoft Edge Developer](https://developer.microsoft.com/en-us/microsoft-edge/status/)a
 
 ### Update
 
-- [Microsoft Edge Dev Blog](http://blogs.windows.com/msedgedev/ "Microsoft Edge Dev Blog")
+- [Microsoft Edge Blog - Official blog of the Microsoft Edge Web Platform Team](https://blogs.windows.com/msedgedev/)
 
 ### Bug Report
 
-- [EdgeHTML issue tracker](https://developer.microsoft.com/microsoft-edge/platform/issues/)
+- [EdgeHTML issue tracker](https://developer.microsoft.com/en-us/microsoft-edge/)
 - [Introducing #EdgeBug: File web platform bugs with a Tweet | Microsoft Edge Dev Blog](https://blogs.windows.com/msedgedev/2016/08/11/edgebug-twitter/)
 
 <!-- Firefox -->
@@ -57,20 +53,19 @@ This is the collection of official release note, changelog and blogs.
 ### Changelog
 
 - [Mozilla Firefox Release Notes — Mozilla](https://www.mozilla.org/en-US/firefox/releases/)
-- [Firefox developer release notes - Mozilla | MDN](https://developer.mozilla.org/Firefox/Releases)
-- [Firefox JavaScript changelog - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/Firefox_JavaScript_changelog)
+- [Firefox developer release notes - Mozilla | MDN](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases)
 
 ### Status
 
-- [Firefox Platform Status](https://platatus.herokuapp.com/ "Firefox Platform Status")
+- [Firefox Platform Status](https://platform-status.mozilla.org/)
 
 ### Update
 
-- [Firefox Site Compatibility](https://www.fxsitecompat.com/)
+- [Firefox Site Compatibility](https://www.fxsitecompat.dev/en-CA/)
 - [Mozilla Hacks – the Web developer blog](https://hacks.mozilla.org/)
-- [New in JavaScript - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript)
-	- [ECMAScript 6 support in Mozilla - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_6_support_in_Mozilla)
-	- [ECMAScript 7 support in Mozilla - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/New_in_JavaScript/ECMAScript_7_support_in_Mozilla)
+- [New in JavaScript - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/New_in_JavaScript)
+	- [ECMAScript 6 support in Mozilla - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/New_in_JavaScript/ECMAScript_2015_support_in_Mozilla)
+	- [ECMAScript 7 support in Mozilla - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/ECMAScript_Next_support_in_Mozilla)
 
 ### Bug Report
 
@@ -84,7 +79,7 @@ This is the collection of official release note, changelog and blogs.
 
 ### Changelog
 
-- [Chrome Releases](http://googlechromereleases.blogspot.jp/)
+- [Chrome Releases](https://chromereleases.googleblog.com/)
 
 ### Status
 
@@ -92,16 +87,17 @@ This is the collection of official release note, changelog and blogs.
 
 ### Update
 
-- [Google Chrome Blog](http://chrome.blogspot.jp/)
-- [Chromium Blog](http://blog.chromium.org/)
-- [V8 JavaScript Engine](http://v8project.blogspot.jp/ "V8 JavaScript Engine")
-- [Google Developers — Medium](https://medium.com/google-developers "Google Developers — Medium")
+- [Google Chrome Blog](https://blog.google/products/chrome/)
+- [Chrome Releases](https://chromereleases.googleblog.com/)
+- [Chromium Blog](https://blog.chromium.org/)
+- [V8 JavaScript engine](https://v8.dev/blog/tags/webassembly)
+- [Google Developers — Medium](https://medium.com/google-developers)
 - [Web Updates — Web Updates](https://developers.google.com/web/updates/ "Web Updates — Web Updates")
 
 ### Bug Report
 
 - [Bug Life Cycle and Reporting Guidelines - The Chromium Projects](http://www.chromium.org/for-testers/bug-reporting-guidelines)
-- [Issues - chromium - An open-source project to help move the web forward. - Google Project Hosting](https://code.google.com/p/chromium/issues/list)
+- [Issues - chromium - An open-source project to help move the web forward. - Google Project Hosting](https://bugs.chromium.org/p/chromium/issues/list)
 
 <!-- Opera -->
 
@@ -110,7 +106,7 @@ This is the collection of official release note, changelog and blogs.
 
 ### Changelog
 
-- [Opera Desktop Team's blog](http://blogs.opera.com/desktop/)
+- [Opera Desktop Team's blog](https://blogs.opera.com/desktop/)
 
 ### Update
 
@@ -127,11 +123,11 @@ This is the collection of official release note, changelog and blogs.
 
 ### Changelog
 
-- [Introduction to “What’s New in Safari”](https://developer.apple.com/library/prerelease/mac/releasenotes/General/WhatsNewInSafari/Introduction/Introduction.html "Introduction to “What’s New in Safari”")
+- [Introduction to “What’s New in Safari”](https://developer.apple.com/library/archive/releasenotes/General/WhatsNewInSafari/Introduction/Introduction.html "Introduction to “What’s New in Safari”")
 
 ### Status
 
-- [WebKit Web Platform Status](http://www.webkit.org/status.html "WebKit Web Platform Status")
+- [WebKit Web Platform Status](https://webkit.org/status/)
 
 ### Update
 
@@ -146,8 +142,8 @@ Safari
 
 WebKit
 
-- [The WebKit Open Source Project - Reporting Bugs](http://www.webkit.org/quality/reporting.html)
-- [The WebKit Open Source Project - Bug Reporting Guidelines](http://www.webkit.org/quality/bugwriting.html)
+- [The WebKit Open Source Project - Reporting Bugs](https://webkit.org/reporting-bugs/)
+- [The WebKit Open Source Project - Bug Reporting Guidelines](https://webkit.org/bug-report-guidelines/)
 - [bugs.webkit.org](https://bugs.webkit.org/)
 
 
@@ -158,7 +154,7 @@ Not official, but useful.
 ### Status
 
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data)
-- [Can I use... Support tables for HTML5, CSS3, etc](http://caniuse.com/)
+- [Can I use... Support tables for HTML5, CSS3, etc](https://caniuse.com/)
 - [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/)
 - [Browser Platform Status Tracker](https://platformstatus.io/)
 
@@ -172,7 +168,7 @@ Not official, but useful.
 
 ## Contributing
 
-1. [Edit README.md](https://github.com/azu/browser-javascript-resource/edit/master/README.md)
+1. [Edit README.md](https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fazu%2Fbrowser-javascript-resource%2Fedit%2Fmaster%2FREADME.md)
 2. Commit your changes: "Create a new branch for this commit and start a pull request."
 3. Submit a pull request :D
 

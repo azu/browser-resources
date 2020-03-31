@@ -1,0 +1,10 @@
+{
+  "filters": {},
+  "rules": {
+    "no-dead-link": {
+      "ignore": [
+        "https://github.com/*/edit/"
+      ]
+    }
+  }
+}
