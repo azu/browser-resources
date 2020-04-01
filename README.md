@@ -155,7 +155,7 @@ WebKit
 
 ### SNS
 
-- Twitter: [@webkit(https://twitter.com/webkit)
+- Twitter: [@webkit](https://twitter.com/webkit)
 - GitHub: [The WebKit Open Source Project](https://github.com/WebKit)
 
 ## :globe_with_meridians: Other
