@@ -37,8 +37,9 @@ This is the collection of official release note, changelog and blogs.
 
 ### Bug Report
 
-- [EdgeHTML issue tracker](https://developer.microsoft.com/en-us/microsoft-edge/)
-- [Introducing #EdgeBug: File web platform bugs with a Tweet | Microsoft Edge Dev Blog](https://blogs.windows.com/msedgedev/2016/08/11/edgebug-twitter/)
+- Use "Feedback" button on toolbar
+    - Ref. <https://twitter.com/ericlaw/status/1219877762967539712>
+- [Issues - chromium](https://bugs.chromium.org/p/chromium/issues/list)
 
 ### SNS
 
