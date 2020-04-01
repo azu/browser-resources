@@ -63,6 +63,7 @@ This is the collection of Browser Resources.
 ### Status
 
 - [Firefox Platform Status](https://platform-status.mozilla.org/)
+- [Mozilla Specification Positions](https://mozilla.github.io/standards-positions/)
 
 ### Update
 
