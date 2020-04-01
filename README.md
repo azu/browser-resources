@@ -75,6 +75,7 @@ This is the collection of Browser Resources.
 
 ### SNS
 
+- GitHub: [Mozilla](https://github.com/mozilla)
 - Twitter: [@firefox](https://twitter.com/firefox)
 - Twitter: [@FirefoxDevTools](https://twitter.com/firefoxdevtools)
 - Twitter: [@FirefoxNightly](https://twitter.com/firefoxnightly)
