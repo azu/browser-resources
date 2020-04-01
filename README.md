@@ -189,4 +189,4 @@ Not official, but useful.
 
 ## License
 
-MIT
+CC0
