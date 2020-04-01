@@ -1,8 +1,6 @@
-# Browser JavaScript Resource
+# Browser Resources
 
-Latest JavaScript information by browser.
-
-This is the collection of official release note, changelog and blogs.
+This is the collection of Browser Resources.
 
 **Tags**
 
