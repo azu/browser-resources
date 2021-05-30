@@ -20,8 +20,8 @@
   },
   "homepage": "https://github.com/azu/browser-resources#readme",
   "devDependencies": {
-    "textlint": "^11.6.3",
+    "textlint": "^12.0.0",
     "textlint-filter-rule-comments": "^1.2.2",
-    "textlint-rule-no-dead-link": "^4.6.2"
+    "textlint-rule-no-dead-link": "^4.7.0"
   }
 }
