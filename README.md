@@ -58,7 +58,6 @@ This is the collection of Browser Resources.
 
 - [Mozilla Firefox Release Notes — Mozilla](https://www.mozilla.org/en-US/firefox/releases/)
 - [Firefox developer release notes - Mozilla | MDN](https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases)
-- [Firefox Site Compatibility](https://www.fxsitecompat.dev/en-CA/)
 
 ### Status
 
