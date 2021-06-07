@@ -105,6 +105,7 @@ This is the collection of Browser Resources.
 - [Chrome Releases](https://chromereleases.googleblog.com/)
 - [Chromium Blog](https://blog.chromium.org/)
 - [V8 JavaScript engine](https://v8.dev/blog/tags/webassembly)
+- [web.dev Blog](https://web.dev/blog/) 
 - [Google Developers — Medium](https://medium.com/google-developers)
 - [Web Updates — Web Updates](https://developers.google.com/web/updates/ "Web Updates — Web Updates")
 - [Google Chrome Developers - YouTube](https://www.youtube.com/c/GoogleChromeDevelopers)
