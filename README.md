@@ -107,6 +107,7 @@ This is the collection of Browser Resources.
 - [V8 JavaScript engine](https://v8.dev/blog/tags/webassembly)
 - [Google Developers — Medium](https://medium.com/google-developers)
 - [Web Updates — Web Updates](https://developers.google.com/web/updates/ "Web Updates — Web Updates")
+- [Google Chrome Developers - YouTube](https://www.youtube.com/c/GoogleChromeDevelopers)
 
 ### Bug Report
 
